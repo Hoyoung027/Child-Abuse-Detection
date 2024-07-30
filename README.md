@@ -1,3 +1,5 @@
+Yonsei-Univ, AI-Programming team project
+
 # Child-Abuse-Detection
 Child-Abuse Detection Application by VGG16
 
